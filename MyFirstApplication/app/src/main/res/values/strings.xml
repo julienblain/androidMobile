@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="app_hello">Hello hello hello</string>
+    <string name="setByObject">Set par l\'objet</string>
+    <string name="title_activity_injec">InjecActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_injection">InjectionActivity</string>
+    <string name="pop">Android c\'est cool</string>
+    <string name="popContent">Boom boom boom</string>
+
+</resources>
